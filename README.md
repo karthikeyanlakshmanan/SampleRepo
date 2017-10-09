@@ -1,2 +1,2 @@
 # SampleRepo
-Sample to play around git Test
+ New Sample to play around git Test
